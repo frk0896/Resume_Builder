@@ -1,0 +1,73 @@
+
+.div{
+    width: 35%;
+    height: 70%;
+    background-color:rgba(45, 49, 50, 0.5);
+    margin-left: 20%;
+    
+}
+@media only screen and (max-width: 500px) {
+    .div{
+       visibility:visible;
+    }
+}
+
+input[type=text]
+{
+    width: 75%;
+    padding: 12px;
+    margin-left: 2%;
+    margin-top: 2%;
+    margin-right: 2%;
+    background-color:rgba(251, 254, 255, 0.43);
+    border-radius: 2;
+   
+}
+
+input[type=email]
+{
+    width: 75%;
+    padding: 12px;
+    margin-left: 2%;
+    margin-top: 2%;
+    margin-right: 2%;
+    background-color:rgba(251, 254, 255, 0.43);
+    border-radius: 2;
+   
+}
+.textarea
+{
+    width: 70%;
+    padding: 30px 20px;
+    margin-left: 5%;
+    margin-top: 2%; 
+    margin-right: 2%;
+    background-color:rgba(251, 254, 255, 0.43);
+}
+.btn1
+{
+    width: 35%;
+    height: 100%;
+    background-color: rgb(13, 109, 129);
+    color: white;
+    margin-right: 30%;
+    margin-top: 5%;
+    padding: 10px 5px;
+    margin-bottom: 10%;
+    
+}
+.btn2
+{
+    width: 30%;
+    background-color: rgb(13, 109, 129);
+    color: white;
+    margin-top: 5%;
+    padding: 10px 5px;
+    margin-bottom: 10%;
+}
+label{
+
+    float: left;
+    margin-left: 7%;
+        
+    }

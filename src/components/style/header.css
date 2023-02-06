@@ -1,0 +1,22 @@
+.header{
+    height: 5%;
+    width: 90%;
+    margin-top: 5%;
+    margin-left: 5%;
+    background-color:rgba(122, 125, 125, 0.5);
+    border-radius: 16px;
+}
+.h{
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(27, 92, 102);
+    font-weight: bolder;
+    font-variant: small-caps;
+}
+hr {
+    background-color: rgb(99, 116, 114);
+    width: 90%;
+    height: 2px;
+    border-top: 5px;
+    line-height: 80%;
+}

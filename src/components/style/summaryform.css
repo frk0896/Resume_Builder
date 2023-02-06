@@ -1,0 +1,62 @@
+.div{
+    width: 30%;
+    height: 70%;
+    margin-top: 15%;
+    margin-left: 35%;
+    background-color:rgba(45, 49, 50, 0.5);
+    color: rgb(186, 206, 216);
+}
+@media only screen and (max-width: 500px) {
+    .div1{
+       visibility:visible;
+    }
+}
+
+.textarea
+{
+    width: 70%;
+    padding: 30px 20px;
+    margin-left: 5%;
+    margin-top: 2%; 
+    margin-right: 2%;
+    border-radius: 2;
+}
+.btn1
+{
+    width: 35%;
+    height: 100%;
+    background-color: rgb(13, 109, 129);
+    color: white;
+    margin-right: 30%;
+    margin-top: 5%;
+    padding: 10px 5px;
+    margin-bottom: 10%;
+    border: 0;
+    
+}
+.btn2
+{
+    width: 30%;
+    background-color: rgb(13, 109, 129);
+    color: white;
+    margin-top: 5%;
+    padding: 10px 5px;
+    margin-bottom: 10%;
+    border: 0;
+}
+label{
+    
+    float: left ;
+    margin-left: 7%;
+        
+    }
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: rgb(88, 158, 163);
+}
+h2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: rgb(88, 158, 163);
+}
